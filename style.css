@@ -15,7 +15,7 @@ html, body {
 
 @font-face {
     font-family: Pincoya;
-    src: url(/pincoyablack.otf);
+    src: url(pincoyablack.otf);
 }
 /* font-family: "DM Serif Text", serif;
 font-family: "Libre Baskerville", serif;
@@ -71,7 +71,7 @@ header{
 
 .logo{
     position: absolute;
-    background-image: url("/imgs/Music.io.png");
+    background-image: url("imgs/Music.io.png");
     background-size: contain;
     background-repeat: no-repeat;
     bottom: 3rem;
